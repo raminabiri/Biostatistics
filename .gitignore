@@ -1,0 +1,11 @@
+# R / Python / SPSS outputs
+.Rhistory
+.RData
+Rplots.pdf
+__pycache__/
+*.rds
+*.pkl
+*.sav
+*.spv
+# Planning documents (not course content)
+*.odt
